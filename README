@@ -1,0 +1,21 @@
+The set of codes in this repository contains the  implementation details of our paper “Probabilistic group recommendation model for crowdfunding domains” published in Proceedings of the ACM International Conference on Web
+Search and Data Mining (WSDM). ACM, 2016. Our paper uses the Kickstarter data, however, at the time of this publication, we are unable to make our dataset public. Therefore, we have included a demo dataset that was created using the famous movilens data. 
+
+What you need:
+
+When you git pull this repository, you will see the following files: 
+
+1. CROWDREC.py
+2. the python package GetGroupData2
+
+The CROWDREC.py is the main file that contains all the implementation methods of our Model. 
+The python package GetGroupData2 can be imported to create groups from your favourite dataset. 
+
+How to run:
+
+You just have to run  python CROWDREC.py. In this code, you will be a able to see the main method, that calls a series of other functions. The codes are self-explanatory, and all the codes are heavily commented for the ease of understanding.
+
+If you have any questions, please email me at vineethrakesh@gmail.com and if you are re-using our code please cite our paper using the following citation:
+
+V. Rakesh, W.-C. Lee, and C. K. Reddy. Probabilistic group recommendation model for crowdfunding domains. In Proceedings of the ACM International Conference on Web
+ Search and Data Mining (WSDM). ACM, 2016.
