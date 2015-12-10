@@ -1,5 +1,4 @@
-The set of codes in this repository contains the  implementation details of our paper “Probabilistic group recommendation model for crowdfunding domains” published in Proceedings of the ACM International Conference on Web
-Search and Data Mining (WSDM). ACM, 2016. Our paper uses the Kickstarter data, however, at the time of this publication, we are unable to make our dataset public. Therefore, we have included a demo dataset that was created using the famous movilens data. 
+The set of codes in this repository contains the  implementation details of our paper “Probabilistic group recommendation model for crowdfunding domains” published in Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM). ACM, 2016. Our paper uses the Kickstarter data, however, at the time of this publication, we are unable to make our dataset public. Therefore, we have included a demo dataset that was created using the famous movilens data. 
 
 What you need:
 
